@@ -27,15 +27,11 @@ p{
     position: relative;
 }
 
-a{
+.button{
     position: relative;
+    display: inline-block;
     text-decoration: none;
     border: white solid 1px;
     padding: 10px 20px;
     color: white;
-}
-
-a:hover{
-    background-color: white;
-    color: darkslategray;
 }
