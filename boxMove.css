@@ -18,4 +18,10 @@ body{
     left: 0;
     top: 0;
     background-color: white;
+
+    --boxWidth: 50px;
+    --boxHeight: 50px;
+
+    width: var(--boxWidth);
+    height: var(--boxHeight);
 }
