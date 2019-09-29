@@ -23,5 +23,5 @@ body{
     --boxHeight: 50px;
 
     width: var(--boxWidth);
-    height: var(--boxHeight);
+    height: var(--height);
 }
